@@ -1,1 +1,1 @@
-#LA BASE DE DATOS ES EL ARCHIVO (umc_fc.sql)#
+#LA BASE DE DATOS ES EL ARCHIVO (umc_fc.sql)
